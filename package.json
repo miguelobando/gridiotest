@@ -1,0 +1,29 @@
+{
+  "name": "gridio",
+  "version": "1.0.0",
+  "description": "Test for gridio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelobando/gridiotest.git"
+  },
+  "keywords": [
+    "test",
+    "gridio",
+    "clean",
+    "energy"
+  ],
+  "author": "Miguel Obando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelobando/gridiotest/issues"
+  },
+  "homepage": "https://github.com/miguelobando/gridiotest#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "sqlite3": "^5.0.2"
+  }
+}
